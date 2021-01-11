@@ -1,0 +1,25 @@
+{
+  "name": "automated-project-creation",
+  "version": "1.0.0",
+  "description": "a tool to automate project creation process",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasilisAndrikopoulos/Automated-Project-Creation.git"
+  },
+  "author": "Vasilis Andrikopoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasilisAndrikopoulos/Automated-Project-Creation/issues"
+  },
+  "homepage": "https://github.com/VasilisAndrikopoulos/Automated-Project-Creation#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "yarn": "^1.22.10"
+  }
+}
